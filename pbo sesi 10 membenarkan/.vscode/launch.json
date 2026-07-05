@@ -6,17 +6,10 @@
     "configurations": [
         {
             "type": "java",
-            "name": "ShowData",
+            "name": "Exception",
             "request": "launch",
-            "mainClass": "ShowData",
-            "projectName": "pbo_62bd243f"
-        },
-        {
-            "type": "java",
-            "name": "Calculator",
-            "request": "launch",
-            "mainClass": "Calculator",
-            "projectName": "pbo_62bd243f"
+            "mainClass": "Exception",
+            "projectName": "pbo sesi 10 membenarkan_55d7a7f5"
         },
         {
             "type": "java",

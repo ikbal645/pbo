@@ -6,19 +6,19 @@ public class LaptopUser {
         this.laptop = laptop;
     }
 
-    void turnOnLaptop() {
+    public void turnOnLaptop() {
         laptop.powerOn();
     }
 
-    void turnOffLaptop() {
+    public void turnOffLaptop() {
         laptop.powerOff();
     }
 
-    void makeLaptopLouder() {
+    public void makeLaptopLouder() {
         laptop.volumeUp();
     }
 
-    void makeLaptopSilence() {
+    public void makeLaptopSilence() {
         laptop.volumeDown();
     }
 }
